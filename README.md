@@ -1,6 +1,8 @@
 # Open-Source-AI-Agent
 
 AI Agent with Llama 3.1 to match the reasoning capabilities of OpenAI's new O1 model!
+I used Llama 3.1 and Groq with 3+ LLM transformation features to have a short and long-term memory of 10K context.
+Built full agent workflow— planner, executor, evaluator — mocking the reasoning of OpenAI's new model O1: Strawberry.
 
 # .env file
 Sample .env file template containing placeholders for your various API keys: <br>
